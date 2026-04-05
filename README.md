@@ -1,4 +1,7 @@
-Aspiring Data Analyst with a strong foundation in data analysis, data cleaning, and visualization.
+
+
+<!--
+**Aspiring Data Analyst with a strong foundation in data analysis, data cleaning, and visualization.
 
 Skilled in Python, SQL, Excel, and Power BI, with hands-on experience in transforming raw data into actionable insights. Passionate about solving real-world problems using data and building interactive dashboards.
 
@@ -13,18 +16,4 @@ Skilled in Python, SQL, Excel, and Power BI, with hands-on experience in transfo
 - Data Cleaning & Analysis using Python and SQL
 
 🚀 Currently seeking opportunities as a Data Analyst to apply my analytical and problem-solving skills.
-
-<!--
-**sathish16207/sathish16207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
